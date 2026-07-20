@@ -1,5 +1,11 @@
 ## Olá 👋   Eu sou Alex Becker Rodrigues
 
+I’m an aspiring Data Analyst passionate about transforming data into actionable insights.
+
+Currently studying Python, SQL, Pandas, NumPy, Matplotlib, and data visualization while building real-world projects focused on inventory management, demand forecasting, and business analytics.
+
+I’m actively seeking opportunities as a Junior Data Analyst in Portugal or remotely.
+
  
 
 <div style="display: inline_block"><br>
